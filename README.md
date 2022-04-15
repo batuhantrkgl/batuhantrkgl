@@ -1,4 +1,4 @@
-# Merhaba, Ben Batuhan - aka [Batuhantrkgl][github] 👋 
+# Merhaba, Ben Batuhan - aka Batuhantrkgl 👋 
 
 
 

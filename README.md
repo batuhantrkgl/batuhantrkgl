@@ -13,7 +13,7 @@
 
 
 [![website](./img/twitter-light.svg)](https://twitter.com/batuhantrkgl#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Batuhantrkglr#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Batuhantrkgl#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/batuhantrkgl_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/batuhantrkgl_#gh-dark-mode-only)

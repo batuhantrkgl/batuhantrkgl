@@ -1,10 +1,10 @@
 # Merhaba Ben Batuhan Türkoğlu, A.K.A. Batuhantrkgl_
 
-https://img.shields.io/github/followers/batuhantrkgl?style=social
-https://img.shields.io/sourceforge/dt/batuhan-s-builds?label=SourceForge%20Downloads
-https://img.shields.io/twitter/url?label=Follow%20On%20Twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Fbatuhantrkgl
-## Yazılım Dileri
+<a href="https://github.com/batuhantrkgl" target="_blank"><img src="https://img.shields.io/github/followers/batuhantrkgl?style=social" alt="Github"></a>
+<a href="https://sourceforge.net/projects/batuhan-s-builds" target="_blank"><img src="https://img.shields.io/sourceforge/dt/batuhan-s-builds?label=SourceForge%20Downloads" alt="SourceForge"></a>
+<a href="https://twitter.com/batuhantrkgl" target="_blank"><img src="https://img.shields.io/twitter/url?label=Follow%20On%20Twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Fbatuhantrkgl" alt="Twitter"></a>
 
+## Yazılım Dileri
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]

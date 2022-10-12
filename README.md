@@ -1,8 +1,17 @@
 # Merhaba Ben Batuhan Türkoğlu, A.K.A. Batuhantrkgl_
 
 ## Linkler;
-(Instagram)[https://instagram.com/batuhantrkgl]_ (Twitter)[https://twitter.com/batuhantrkgl] (Youtube)[https://www.youtube.com/channel/UCB3WDztNfpHIbhPlM8oG4qg] (SourceForge Project)[https://sourceforge.net/projects/batuhan-s-builds/] (Telegram)[https://t.me/batuhantrkgl_j7y17lte]
 
+[![website](./img/twitter-dark.svg)](https://twitter.com/Batuhantrkgl#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://instagram.com/batuhantrkgl_#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCB3WDztNfpHIbhPlM8oG4qg)
+&nbsp;&nbsp;
+[![website](./img/sourceforge-dark.svg)](https://sourceforge.net/projects/batuhan-s-builds/)
+&nbsp;&nbsp;
+[![website](./img/telegram-dark.svg)](https://t.me/batuhantrkgl_j7y17lte)
+&nbsp;&nbsp;
 ## Yazılım Dileri
 
 

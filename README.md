@@ -1,17 +1,8 @@
 # Merhaba Ben Batuhan Türkoğlu, A.K.A. Batuhantrkgl_
 
-## Linkler;
-
-[![website](./img/twitter-dark.svg)](https://twitter.com/Batuhantrkgl#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/batuhantrkgl_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCB3WDztNfpHIbhPlM8oG4qg)
-&nbsp;&nbsp;
-[![website](./img/sourceforge-dark.svg)](https://sourceforge.net/projects/batuhan-s-builds/)
-&nbsp;&nbsp;
-[![website](./img/telegram-dark.svg)](https://t.me/batuhantrkgl_j7y17lte)
-&nbsp;&nbsp;
+https://img.shields.io/github/followers/batuhantrkgl?style=social
+https://img.shields.io/sourceforge/dt/batuhan-s-builds?label=SourceForge%20Downloads
+https://img.shields.io/twitter/url?label=Follow%20On%20Twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Fbatuhantrkgl
 ## Yazılım Dileri
 
 
@@ -22,7 +13,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <details>
   <summary>:zap: GitHub Stats</summary>

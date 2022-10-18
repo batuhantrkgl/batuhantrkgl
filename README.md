@@ -1,8 +1,6 @@
 # Merhaba Ben Batuhan Türkoğlu, A.K.A. Batuhantrkgl_
 
-<a href="https://github.com/batuhantrkgl" target="_blank"><img src="https://img.shields.io/github/followers/batuhantrkgl?style=social" alt="Github"></a>
-<a href="https://sourceforge.net/projects/batuhan-s-builds" target="_blank"><img src="https://img.shields.io/sourceforge/dt/batuhan-s-builds?label=SourceForge%20Downloads" alt="SourceForge"></a>
-<a href="https://twitter.com/batuhantrkgl" target="_blank"><img src="https://img.shields.io/twitter/url?label=Follow%20On%20Twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Fbatuhantrkgl" alt="Twitter"></a>
+<a href="https://github.com/batuhantrkgl" target="_blank"><img src="https://img.shields.io/github/followers/batuhantrkgl?style=social" alt="Github"></a>\n<a href="https://sourceforge.net/projects/batuhan-s-builds" target="_blank"><img src="https://img.shields.io/sourceforge/dt/batuhan-s-builds?label=SourceForge%20Downloads" alt="SourceForge"></a>\n<a href="https://twitter.com/batuhantrkgl" target="_blank"><img src="https://img.shields.io/twitter/url?label=Follow%20On%20Twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Fbatuhantrkgl" alt="Twitter"></a>
 
 ## Yazılım Dileri
 

@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [AlrightOS](https://github.com/alrightAndroid-brokenlab)
 
-- 🌱 I’m currently learning **Android Custom ROM development, FullStack JavaScript Development**
+- 🌱 I’m currently learning **Android Custom ROM development, FullStack JavaScript Development and How to clean retards, buildbots and kangers from my chat**
 
 - 📝 I regularly write articles on [https://t.me/batuhan_s_builds](https://t.me/batuhan_s_builds)
 

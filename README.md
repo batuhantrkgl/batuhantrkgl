@@ -12,13 +12,15 @@
 
 - 🌱 I’m currently learning **Android Custom ROM development, FullStack JavaScript Development and How to clean retards, buildbots and kangers from my chat**
 
-- 📝 I regularly write articles on [https://t.me/batuhan_s_builds](https://t.me/batuhan_s_builds)
+- 📝 I regularly write articles on [My Telegram Channel](https://t.me/batuhan_s_builds)
 
 - 💬 Ask me about **Android Custom ROM development**
 
 - 📫 How to reach me **https://t.me/batuhantrkgl**
 
 - ⚡ Fun fact **My Commit History is Trash.**
+
+- 🔗 All my social account links are on [Telegram](https://t.me/batuhan_s_index/7)
 
 <h3 align="left">Connect with me:</h3>
 

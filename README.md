@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/batuhantrlgl" target="blank"><img src="https://img.shields.io/twitter/follow/batuhantrlgl?logo=twitter&style=for-the-badge" alt="batuhantrlgl" /></a> </p>
 
-- 🔭 I’m currently working on [AlrightOS](https://github.com/alrightAndroid-brokenlab)
+- 🔭 I’m currently working on [AlrightOS](https://github.com/alrightAndroid-brokenlab) and [AlrightOS-Bot](https://github.com/batuhantrkgl/AlrightOS-Bot)
 
 - 🌱 I’m currently learning **Android Custom ROM development, FullStack JavaScript Development and How to clean retards, buildbots and kangers from my chat**
 

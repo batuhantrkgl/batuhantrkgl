@@ -2,7 +2,15 @@
 
 <h3 align="center">A passionate Android developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhantrkgl&label=Profile%20views&color=0e75b6&style=flat" alt="batuhantrkgl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=batuhantrkgl&label=Profile%20views&color=0e75b6&style=flat" alt="batuhantrkgl" /> </p>
+
+<a href="https://sourceforge.net/projects/batuhan-s-builds/files/latest/download"><img alt="Download Batuhan's Builds" src="https://img.shields.io/sourceforge/dm/batuhan-s-builds.svg" ></a>
+
+<a href="https://sourceforge.net/projects/batuhan-s-builds/files/latest/download"><img alt="Download Batuhan's Builds" src="https://img.shields.io/sourceforge/dw/batuhan-s-builds.svg" ></a>
+
+<a href="https://sourceforge.net/projects/batuhan-s-builds/files/latest/download"><img alt="Download Batuhan's Builds" src="https://img.shields.io/sourceforge/dd/batuhan-s-builds.svg" ></a>
+
+<a href="https://sourceforge.net/projects/batuhan-s-builds/files/latest/download"><img alt="Download Batuhan's Builds" src="https://img.shields.io/sourceforge/dt/batuhan-s-builds.svg" ></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batuhantrkgl&theme=onedark" alt="batuhantrkgl" /></a> </p>
 

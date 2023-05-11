@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batuhantrkgl</h1>
 
-<h3 align="center">A passionate Android developer from Turkey</h3>
+<h3 align="center">A passionate Android developer from Turkey 🇹🇷</h3>
 
   
 <p align="center"> <img src="https://sourceforge.net/cdn/syndication/badge_img/3548987/oss-users-love-us-black?&r=https://sourceforge.net/p/batuhan-s-builds/admin/files-sf/badges" width="150" height="150" alt="Batuhan's Builds" \> <img src="https://sourceforge.net/cdn/syndication/badge_img/3548987/oss-rising-star-black?achievement=oss-rising-star&r=https://sourceforge.net/p/batuhan-s-builds/admin/files-sf/badges" width="150" height="150" alt="Batuhan's Builds" \> </p>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [AlrightOS](https://github.com/alrightAndroid-brokenlab) and [AlrightOS-Bot](https://github.com/batuhantrkgl/AlrightOS-Bot)
 
-- 🌱 I’m currently learning **Android Custom ROM development, FullStack JavaScript Development and How to clean retards, buildbots and kangers from my chat**
+- 🌱 I’m currently learning **Android Custom ROM development, FullStack JavaScript Development and Etichal Hacking**
 
 - 📝 I regularly write articles on [My Telegram Channel](https://t.me/batuhan_s_builds)
 

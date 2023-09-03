@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/batuhantrlgl" target="blank"><img src="https://img.shields.io/twitter/follow/batuhantrlgl?logo=twitter&style=for-the-badge" alt="batuhantrlgl" /></a> </p>
 
-- 🔭 I’m currently working on [AlrightOS](https://github.com/alrightAndroid-brokenlab) and [AlrightOS-Bot](https://github.com/batuhantrkgl/AlrightOS-Bot)
+- 🔭 I’m currently working on [AlrightOS](https://github.com/AlrightOS-brokenlab) and [Exynos7870-Revived](https://github.com/exynos7870-revived)
 
-- 🌱 I’m currently learning **Android Custom ROM development, FullStack JavaScript Development and Etichal Hacking**
+- 🌱 I’m currently learning **Android Custom ROM development, Web Development and Etichal Hacking**
 
 - 📝 I regularly write articles on [My Telegram Channel](https://t.me/batuhan_s_builds)
 
@@ -23,8 +23,6 @@
 - 📫 How to reach me **https://t.me/batuhantrkgl**
 
 - ⚡ Fun fact **My Commit History is Trash.**
-
-- 🔗 All my social account links are on [Telegram](https://t.me/batuhan_s_index/7)
 
 <h3 align="left">Connect with me:</h3>
 

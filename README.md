@@ -44,3 +44,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhantrkgl&" alt="batuhantrkgl" /></p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/batuhantrkgl?theme=dark&font=baloo&extension=activity)
+

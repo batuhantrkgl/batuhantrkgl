@@ -1,49 +1,90 @@
-<h1 align="center">Hi 👋, I'm Batuhantrkgl</h1>
+# <center>👋 Hey there, I'm Batuhan Türkoglu! 👋</center>
 
-<h3 align="center">A passionate Android developer from Turkey 🇹🇷</h3>
+Hello, I'm Batuhan Türkoglu, a passionate AOSP developer and the owner/CEO of AlrightStudios. I specialize in Android development and have some experience in AOSP projects. 
 
   
 <p align="center"> <img src="https://sourceforge.net/cdn/syndication/badge_img/3548987/oss-users-love-us-black?&r=https://sourceforge.net/p/batuhan-s-builds/admin/files-sf/badges" width="150" height="150" alt="Batuhan's Builds" \> <img src="https://sourceforge.net/cdn/syndication/badge_img/3548987/oss-rising-star-black?achievement=oss-rising-star&r=https://sourceforge.net/p/batuhan-s-builds/admin/files-sf/badges" width="150" height="150" alt="Batuhan's Builds" \> <img src="https://sourceforge.net/cdn/syndication/badge_img/3548987/oss-community-choice-black?achievement=oss-community-choice&r=https://sourceforge.net/p/batuhan-s-builds/admin/files-sf/badges" width="150" height="150" alt="Batuhan's Builds" \> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=batuhantrkgl&label=Profile%20views&color=0e75b6&style=flat" " alt="batuhantrkgl" /> <img src="https://img.shields.io/sourceforge/dm/batuhan-s-builds.svg" alt="Download Batuhan's Builds" </p>
 
+## <center>About Me</center>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batuhantrkgl&theme=onedark" alt="batuhantrkgl" /></a> </p>
+- Currently working on exciting AOSP development projects 🚀
+- Constantly learning and exploring new technologies 🌱
+- Seeking collaboration on open-source projects related to Android development 🤝
+- Feel free to reach out to me for any inquiries or discussions related to AOSP, Android development, or AlrightStudios projects 📩
 
-<p align="left"> <a href="https://twitter.com/batuhantrkgl" target="blank"><img src="https://img.shields.io/twitter/follow/batuhantrkgl?logo=twitter&style=for-the-badge" alt="batuhantrkgl" /></a> </p>
+## <center>Projects</center>
 
-- 🔭 I’m currently working on [AlrightOS](https://github.com/AlrightOS-brokenlab) and [Exynos7870-Revived](https://github.com/exynos7870-revived)
+### AlrightRecoveryProject
 
-- 🌱 I’m currently learning **Android Custom ROM development, Web Development and Arduino**
+AlrightRecoveryProject is a custom recovery for Android devices, providing advanced features and customization options.
 
-- 📝 I regularly write articles on [My Telegram Channel](https://t.me/batuhan_s_builds)
+- Repository: [AlrightRecoveryProject](https://github.com/AlrightRecoveryProject)
+- Description: Click [here](https://github.com/AlrightRecoveryProject) to learn more.
 
-- 💬 Ask me about **Android Custom ROM development**
+### <center>AlrightOS</center>
 
-- 📫 How to reach me **https://t.me/batuhantrkgl**
+AlrightOS is a custom Android ROM based on AOSP, focusing on performance, stability, and customization.
 
-- ⚡ Fun fact **My Commit History is Trash.**
+- Repository: [AlrightOS](https://github.com/AlrightOS)
+- Description: Click [here](https://github.com/AlrightOS) to learn more.
 
-<h3 align="left">Connect with me:</h3>
+## <center>Stats</center>
 
-<p align="left">
+![Batuhan Türkoglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhantrkgl&show_icons=true&theme=radical)
 
-<a href="https://twitter.com/batuhantrkgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuhantrkgl" height="30" width="40" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantrkgl&layout=compact&theme=radical)
 
-<a href="https://instagram.com/batuhantrkgl" 
-target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhantrkgl_" height="30" width="40" /></a>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=batuhantrkgl&theme=radical)
 
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=batuhantrkgl&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
+[![Batuhantrkgl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=batuhantrkgl&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+![GitHub followers](https://img.shields.io/github/followers/batuhantrkgl?style=social)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhantrkgl&show_icons=true&locale=en&layout=compact" alt="batuhantrkgl" /></p>
+![Twitter Follow](https://img.shields.io/twitter/follow/batuhantrkgl?style=social)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhantrkgl&show_icons=true&locale=en" alt="batuhantrkgl" /></p>
+## Sponsorship
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhantrkgl&" alt="batuhantrkgl" /></p>
+If you find my work valuable and would like to support me, consider sponsoring me on [Buy Me a Coffee](https://www.buymeacoffee.com/batuhantrkgl). Your support is greatly appreciated! ☕
 
-![LeetCode Stats](https://leetcode.card.workers.dev/batuhantrkgl?theme=dark&font=baloo&extension=activity)
+## <center>Contact</center>
 
+Feel free to reach out to me if you have any questions or just want to say hi! 📬
+
+- Twitter: [@batuhantrkgl](https://twitter.com/batuhantrkgl)
+- GitHub: [@batuhantrkgl](https://github.com/batuhantrkgl)
+- Instagram: [@batuhantrkgl](https://instagram.com/batuhantrkgl)
+- Telegram [@batuhantrkgl](https://t.me/batuhantrkgl)
+
+
+## <center>Instagram Account</center> 
+
+Check out the [@ferrari_clips_](https://www.instagram.com/ferrari_clips_) Instagram account for daily clips of Ferrari and Scuderia Ferrari! 🏎️ (Yes, im a tifosi.)
+
+## <center>Community</center>
+
+Join my community on Telegram where I post off-topic and Android-related things: [Batuhan's Builds](https://t.me/batuhan_s_builds)
+
+## <center>Devices</center>
+
+- Samsung Galaxy J7 Pro
+    - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php) to learn more.
+- Samsung Galaxy A51
+    - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_a51-9963.php) to learn more.
+
+---
+
+Special thanks to my best friends:
+
+- [@SirRGB](https://github.com/SirRGB)
+- [@ApenasTheus](https://github.com/ApenasTheus)
+- [@Otus9051](https://github.com/Otus9051)
+- [@FlorinelulX](https://github.com/FlorinelulX)
+- [@aanjaneya_meaow](https://github.com/aanjaneya-meaow)
+- [@FlominatorGD](https://github.com/FlominatorGD)
+- I can be forget you to add to list, sorry :( Create a pr please!
+
+Thank you all for everything!

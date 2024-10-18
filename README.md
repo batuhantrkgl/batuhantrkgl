@@ -73,8 +73,8 @@ Join my community on Telegram where I post off-topic and Android-related content
     - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_j7-7185.php) to learn more.
 - **Samsung Galaxy J7 Pro (32/3)** [IMEI Repair Needed]
     - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php) to learn more.
-- **Samsung Galaxy A51 (128/6+6)** [IMEI Repaired]
-    - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_a51-9963.php) to learn more.
+- **Redmi Note 10**
+    - Description: Click [here](https://m.gsmarena.com/xiaomi_redmi_note_10-10247.php) to learn more.
 
 ---
 

@@ -38,6 +38,11 @@ Introducing Bwoah!, the ultimate companion for motorsport enthusiasts! Whether y
 - Repository: [Bwoah!](https://github.com/batuhantrkgl/bwoah)
 - Top.gg: [top.gg](https://top.gg/bot/1245289535923945553)
 
+### HUMI
+HUMI is a comprehensive plant information system designed to provide detailed information about various plant species. It integrates data from multiple sources to offer insights into plant care, growth conditions, and more.
+- Repository: [HUMI](https://github.com/batuhantrkgl/humi)
+- Website: [humi.batuhantrkgl.tech](https://humi.batuhantrkgl.tech)
+
 ## Stats
 
 ![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhantrkgl&show_icons=true&bg_color=00000000)

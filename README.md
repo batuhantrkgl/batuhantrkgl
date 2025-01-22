@@ -14,8 +14,8 @@ Hello, I'm Batuhan, a passionate AOSP developer and the Owner/CEO of ZephyrStudi
     <img src="https://img.shields.io/sourceforge/dm/batuhan-s-builds.svg" alt="Download Batuhan's Builds" />
 </p>
 
-<div align="center>
-<img src="https://lastfm-readme.vercel.app/api/widget/batuhantrkgl" width="456"
+<div align="center">
+<img src="https://lastfm-readme.vercel.app/api/widget/batuhantrkgl?theme=dark" width="456" height="100" alt="Now Playing">
 </div>
 
 ## About Me

@@ -21,6 +21,9 @@ Hello, I'm Batuhan, a passionate AOSP developer and the Owner/CEO of ZephyrStudi
 - Seeking collaboration on open-source projects related to Android development
 - Feel free to reach out to me for any inquiries or discussions related to AOSP, Android development, or ZephyrStudios projects
 
+## 🎵 Now Playing
+![Now Playing](https://lastfm-readme.vercel.app/api/widget/batuhantrkgl)
+
 ## Projects
 
 ### AlrightRecoveryProject

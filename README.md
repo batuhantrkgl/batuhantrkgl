@@ -34,8 +34,8 @@ A custom recovery for Android devices, providing advanced features and customiza
 
 ### AlrightOS
 A custom Android ROM based on AOSP, focusing on performance, stability, and customization.
-- Repository: [AlrightOS](https://github.com/AlrightOS)
-- Description: Click [here](https://github.com/AlrightOS) to learn more.
+- Repository: [AlrightOS](https://github.com/AlrightOSv2)
+- Description: Click [here](https://github.com/AlrightOSv2) to learn more.
 
 ### Bwoah!
 Introducing Bwoah!, the ultimate companion for motorsport enthusiasts! Whether you're a Formula 1 aficionado or a fan of other thrilling racing series, Bwoah! keeps you updated with the latest events and news.
@@ -65,7 +65,7 @@ If you find my work valuable and would like to support me, consider sponsoring m
 Feel free to reach out to me if you have any questions or just want to connect! 📬
 - Twitter: [@batuhantrkgl](https://twitter.com/batuhantrkgl)
 - GitHub: [@batuhantrkgl](https://github.com/batuhantrkgl)
-- Instagram: [@batuhantrkgl](https://instagram.com/batuhantrkgl)
+- Instagram: [@batuhantrkgl](https://instagram.com/batuhantrkgl_)
 - Telegram: [@batuhantrkglv2](https://t.me/batuhantrkglv2)
 
 ## Instagram Account

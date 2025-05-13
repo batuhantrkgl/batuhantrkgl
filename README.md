@@ -65,8 +65,8 @@ If you find my work valuable and would like to support me, consider sponsoring m
 Feel free to reach out to me if you have any questions or just want to connect! 📬
 - Twitter: [@batuhantrkgl](https://twitter.com/batuhantrkgl)
 - GitHub: [@batuhantrkgl](https://github.com/batuhantrkgl)
-- Instagram: [@batuhantrkgl](https://instagram.com/batuhantrkgl_)
-- Telegram: [@batuhantrkglv2](https://t.me/batuhantrkglv2)
+- Instagram: [@batuhantrkgl](https://instagram.com/batuhantrkgl)
+- Telegram: [@batuhantrkgl](https://t.me/batuhantrkgl)
 
 ## Instagram Account
 

@@ -90,7 +90,6 @@ Join my community on Telegram where I post off-topic and Android-related content
 Special thanks to my best friends:
 - [@SirRGB](https://github.com/SirRGB)
 - [@ApenasTheus](https://github.com/ApenasTheus)
-- [@Otus9051](https://github.com/Otus9051)
 - [@FlorinelulX](https://github.com/FlorinelulX)
 - [@aanjaneya_meaow](https://github.com/aanjaneya-meaow)
 - [@FlominatorGD](https://github.com/FlominatorGD)

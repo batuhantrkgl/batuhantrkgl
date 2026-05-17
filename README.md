@@ -80,10 +80,12 @@ Join my community on Telegram where I post off-topic and Android-related content
 
 - **Samsung Galaxy J7 2015 (16/1.5)** [Screen Broken, Battery Replacement Needed]
     - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_j7-7185.php) to learn more.
-- **Samsung Galaxy J7 Pro (32/3)** [IMEI Repair Needed]
+- **Samsung Galaxy J7 Pro (32/3)** [Screen Broken, IMEI Repair Needed]
     - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php) to learn more.
-- **Redmi Note 10**
+- **Redmi Note 10 (Bricked)**
     - Description: Click [here](https://m.gsmarena.com/xiaomi_redmi_note_10-10247.php) to learn more.
+- **Samsung Galaxy S20+ (128/8, Exynos)**
+    - Description: Click [here](https://m.gsmarena.com/samsung_galaxy_s20+-10080.php) to learn more.
 
 ---
 

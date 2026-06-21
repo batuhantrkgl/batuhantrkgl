@@ -84,8 +84,10 @@ Join my community on Telegram where I post off-topic and Android-related content
     - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php) to learn more.
 - **Redmi Note 10 (Bricked)**
     - Description: Click [here](https://m.gsmarena.com/xiaomi_redmi_note_10-10247.php) to learn more.
-- **Samsung Galaxy S20+ (128/8, Exynos)**
+- **Samsung Galaxy S20+ (128/8, Exynos)** [SUB Connector Broken]
     - Description: Click [here](https://m.gsmarena.com/samsung_galaxy_s20+-10080.php) to learn more.
+- **Samsung Galaxy S21 5G (128/8, Exynos)** [IMEI Repaired]
+    - Description: Click [here](https://www.gsmarena.com/samsung_galaxy_s21_5g-10626.php) to learn more.
 
 ---
 
